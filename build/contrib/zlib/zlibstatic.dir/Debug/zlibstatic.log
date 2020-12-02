@@ -1,0 +1,17 @@
+﻿  Building Custom Rule D:/Jordan/Documents/CSE167/assimp-5.0.0/contrib/zlib/CMakeLists.txt
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzclose.c
+  gzlib.c
+  gzread.c
+  gzwrite.c
+  inflate.c
+  infback.c
+  inftrees.c
+  inffast.c
+  trees.c
+  uncompr.c
+  zutil.c
+  zlibstatic.vcxproj -> D:\Jordan\Documents\CSE167\build\contrib\zlib\Debug\zlibstaticd.lib

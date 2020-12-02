@@ -1,0 +1,10 @@
+﻿  BoundingSphere.cpp
+  Skybox.cpp
+  Transform.cpp
+  Window.cpp
+  main.cpp
+  Generating Code...
+D:\Jordan\Documents\CSE167\CSE167_HW4\Window.cpp(353,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Skybox.obj : error LNK2019: unresolved external symbol _stbi_load referenced in function "public: unsigned int __thiscall Skybox::loadCubemap(class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >)" (?loadCubemap@Skybox@@QAEIV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z)
+Skybox.obj : error LNK2019: unresolved external symbol _stbi_image_free referenced in function "public: unsigned int __thiscall Skybox::loadCubemap(class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > >)" (?loadCubemap@Skybox@@QAEIV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@@Z)
+D:\Jordan\Documents\CSE167\CSE167_HW4\Debug\CSE167_HW4.exe : fatal error LNK1120: 2 unresolved externals

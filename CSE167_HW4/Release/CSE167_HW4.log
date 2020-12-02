@@ -1,0 +1,4 @@
+﻿  Window.cpp
+D:\Jordan\Documents\CSE167\CSE167_HW4\Window.cpp(456,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  CSE167_HW4.vcxproj -> D:\Jordan\Documents\CSE167\CSE167_HW4\Release\CSE167_HW4.exe
